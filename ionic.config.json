@@ -1,5 +1,7 @@
 {
   "name": "folios",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
